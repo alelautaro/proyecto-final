@@ -1,0 +1,35 @@
+
+//variables
+@import"variables/";
+
+
+//mixins
+@import "/scss/mixins/";
+
+
+//base
+@import "/scss/base/utilidades";
+
+@import "/scss/base/tipografia";
+
+@import "/scss/base/reset";
+
+//themes
+
+@import "/scss/themes/temas.scss";
+
+//componentes
+
+@import "/scss/componentes/_cards.scss";
+@import "/scss/componentes/_inputs.scss";
+
+@import "/scss/componentes/_navbar.scss";
+
+@import "/scss/componentes/_botones.scss";
+
+//layouts
+@import "/scss/layouts/body";
+@import "/scss/layouts/_footer.scss";
+@import "/scss/layouts/_header.scss";
+@import "/scss/layouts/_sidebar.scss";
+
