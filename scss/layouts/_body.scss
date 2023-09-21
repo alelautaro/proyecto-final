@@ -1,3 +1,25 @@
+.btn-btn-info{
+    background-color: #FBAB7E;
+}
+
+
 body{
-    background-color: red($color: #c80000);
+    margin: 0;
+   background-image: url(/src/img/cafecito.jpg);
+   font-family: gato;
+   display: grid;
+   min-height: 100vh;
+   grid-template-rows: auto 1fr auto;
+   }
+
+   p{
+    font-size: 2opx;
+  }
+  
+  
+#inicio{
+    font-family: gato;
+    text-decoration: solid;
+    font-size: 60px;
+margin-top: 200px;
 }
