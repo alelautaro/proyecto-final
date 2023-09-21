@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: gato;
-  src: url(/CatCafe.ttf);
+  src: url(/src/scss/base/CatCafe.ttf);
 }
 .card {
   background-color: #FBAB7E;
@@ -72,11 +72,4 @@ p {
 footer {
   padding: 1em 0;
   background-color: orange;
-
-
-}
-
-h1{
-  font-size:60px;
-}
-/*# sourceMappingURL=estilos.css.map */
+}/*# sourceMappingURL=estilos.css.map */
